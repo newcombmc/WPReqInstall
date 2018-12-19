@@ -12,3 +12,4 @@ sudo iptables -A INPUT -m state --state NEW -p tcp --dport 80 -j ACCEPT
 sudo iptables -A INPUT -m state --state NEW -p tcp --dport 443 -j ACCEPT
 sudo ufw allow 80/tcp
 sudo ufw allow 443/tcp
+sudo service apache2 restart
