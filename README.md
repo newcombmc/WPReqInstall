@@ -1,6 +1,5 @@
 # WPReqInstall
-<h1>A simple script to install all Wordpress Requirements and Dependencies</h1>
-
+<h2>A simple script to install all Wordpress Requirements and Dependencies</h2><br/><br/>
 <h2>Usage Instructions</h1>
 <br/>
 <h3>Step 1</h3>
