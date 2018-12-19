@@ -7,6 +7,7 @@ sudo apt install -y php7.2-dba php7.2-xml php7.2-zip
 sudo apt install -y apache2 libapache2-mod-php7.2
 sudo apt install -y mysql-server php7.2-mysql
 sudo mysql_secure_installation
+sudo apt install unzip
 sudo iptables -A INPUT -m state --state NEW -p tcp --dport 80 -j ACCEPT
 sudo iptables -A INPUT -m state --state NEW -p tcp --dport 443 -j ACCEPT
 sudo ufw allow 80/tcp
