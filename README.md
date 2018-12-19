@@ -3,7 +3,7 @@
 <h2>Usage Instructions</h1>
 <br/>
 <h3>Step 1</h3>
-``` 
+```
 sudo wget https://raw.githubusercontent.com/newcombmc/WPReqInstall/master/install.sh 
 ```
 <br/>
