@@ -21,5 +21,5 @@ sudo ./install.sh
 
 
 > Notes:
-> If and When installing wordpress, make sure to enable Overrides in your 000-default.conf
+> If and When installing wordpress, make sure to enable Overrides in your 000-default.conf <br/>
 > Also, make sure to do ```sudo chown -R www-data /your/wordpress/directory```
