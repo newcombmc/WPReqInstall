@@ -1,5 +1,5 @@
 # WPReqInstall
-<h1>https://raw.githubusercontent.com/newcombmc/WPReqInstall/master/install.sh</h1>
+<h1>A simple script to install all Wordpress Requirements and Dependencies</h1>
 
 <h2>Usage Instructions</h1>
 <br/>
