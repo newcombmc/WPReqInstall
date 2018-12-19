@@ -1,5 +1,10 @@
 # WPReqInstall
 <h2>A simple script to install all Wordpress Requirements and Dependencies</h2><br/>
+<h2>Tested On</h2>
+<ul>
+<li>Ubuntu 18.04</li>
+<li>Ubuntu 16.04</li>
+</ul>
 <h2>Usage Instructions</h1>
 <h3>Step 1</h3>
 
