@@ -2,8 +2,8 @@ sudo apt update
 sudo apt install python-software-properties
 sudo add-apt-repository ppa:ondrej/php -y
 sudo apt update
-sudo apt install -y php7.3
-sudo apt install -y php7.3-common
+sudo apt install -y php7.1
+sudo apt install -y php7.1-common
 sudo apt install -y php-curl
 sudo apt install -y php-json
 sudo apt install -y php-mcrypt
